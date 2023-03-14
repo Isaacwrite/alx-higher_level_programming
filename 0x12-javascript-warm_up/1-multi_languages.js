@@ -1,5 +1,5 @@
 #!/usr/bin/node
-console.log(line1);
-console.log(line2);
-console.log(line3);
+console.log('C is fun');
+console.log('Python is cool');
+console.log('JavaScript is amazing');
 
