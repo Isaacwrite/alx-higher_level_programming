@@ -1,5 +1,7 @@
-class Rectangle:
-    def __init__(self, w, h):
-        self.width = w
-        self.height = h
-
+#!/usr/bin/node
+module.exports = class Rectangle {
+  constructor (w, h) {
+    this.width = w;
+    this.height = h;
+  }
+};
